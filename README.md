@@ -20,7 +20,7 @@ The interactive dashboard provides an overview of bike sales performance and all
 
 ### Dashboard Preview
 
-![Bike Sales Dashboard](dashboard.png)
+![Bike Sales Dashboard](bikedashboard.png)
 
 ## 🔎 Key Analysis
 
